@@ -1,0 +1,12 @@
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  color: #ffffff;
+  text-align: center;
+}
+
+.pro {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

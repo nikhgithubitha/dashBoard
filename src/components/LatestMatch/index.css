@@ -1,0 +1,4 @@
+.pro {
+  display: flex;
+  flex-direction: row;
+}
